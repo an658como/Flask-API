@@ -1,2 +1,2 @@
 Flask
-Flask-restful
+flask-restful
